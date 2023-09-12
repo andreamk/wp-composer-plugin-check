@@ -6,6 +6,6 @@ class Bootstrap
 {
     public static function testError() 
     {
-        fopen('test', 'r');
+       // fopen('test', 'r');
     }
 }
